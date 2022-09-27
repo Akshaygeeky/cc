@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Studmin" parent="Theme.Material3.Dark">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/onyx</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/cyan_blue</item>
+        <item name="colorSecondaryVariant">@color/blue_green</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >@color/black</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@color/black</item>
+        <item name="android:navigationBarColor">@color/eerie_black</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorPrimarySurface">@color/carnelian</item>
+        <item name="colorOnPrimarySurface">@color/white</item>
+        <item name="colorAccent">@color/pacific_blue</item>
+        <!--  status bar text-->
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/light_cultured</item>
+
+        <!--  bottom bar -->
+        <item name="colorSecondaryContainer">@color/cyan_blue</item>
+        <item name="colorOnSecondaryContainer">@color/white</item>
+
+
+
+    </style>
+</resources>

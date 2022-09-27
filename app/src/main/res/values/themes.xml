@@ -1,0 +1,49 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Studmin" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/gainsboro</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/cyan_blue</item>
+        <item name="colorSecondaryVariant">@color/blue_green</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color -->
+<!--        <item name="android:statusBarColor">@color/white</item>-->
+        <!--items On status bar -->
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <!-- background -->
+        <item name="android:colorBackground">@color/light_cultured</item>
+        <item name="colorOnBackground">@color/black</item>
+        <!-- navigation bar -->
+        <item name="android:navigationBarColor">@color/eerie_black</item>
+        <!-- action bar and bottom bar-->
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="colorSurfaceVariant">@color/onyx</item>
+        <item name="colorOnSurfaceVariant">@color/gainsboro</item>
+
+        <!--  bottom bar container tabs -->
+        <item name="colorSecondaryContainer">@color/cyan_blue</item>
+        <item name="colorOnSecondaryContainer">@color/blue_green</item>
+        <item name="colorOnPrimaryContainer">@color/carnelian</item>
+        <item name="colorPrimaryContainer">@color/blue_green</item>
+
+
+        <item name="colorPrimarySurface">@color/carnelian</item>
+        <item name="colorOnPrimarySurface">@color/white</item>
+        <item name="colorAccent">@color/pacific_blue</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/light_cultured</item>
+        <item name="colorOutline">@color/light_grey</item>
+        <item name="colorSurfaceInverse">@color/eerie_black</item>
+        <item name="colorOnSurfaceInverse">@color/light_grey</item>
+        <item name="colorPrimaryInverse">@color/cyan_process</item>
+        <item name="itemIconTint">@color/cyan_process</item>
+
+
+
+
+    </style>
+</resources>
