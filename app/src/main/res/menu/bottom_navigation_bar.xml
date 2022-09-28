@@ -3,22 +3,18 @@
 
     <item
         android:id="@+id/home"
-        android:enabled="true"
-        android:icon="@drawable/ic_home"
+        android:icon="@drawable/home_selector"
         android:title="@string/Home" />
     <item
         android:id="@+id/scholar"
-        android:enabled="true"
-        android:icon="@drawable/ic_scholar"
+        android:icon="@drawable/scholar_selector"
         android:title="@string/Scholar" />
     <item
         android:id="@+id/notification"
-        android:enabled="true"
-        android:icon="@drawable/ic_bell"
+        android:icon="@drawable/notification_selector"
         android:title="@string/Notification" />
     <item
         android:id="@+id/profile"
-        android:enabled="true"
-        android:icon="@drawable/ic_user"
+        android:icon="@drawable/profile_selector"
         android:title="@string/Profile" />
 </menu>

@@ -1,32 +1,34 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.Studmin" parent="Theme.Material3.Dark">
-        <!-- Primary brand color. -->
+        <!-- Primary brand color -->
         <item name="colorPrimary">@color/black</item>
-        <item name="colorPrimaryVariant">@color/onyx</item>
+        <item name="colorPrimaryVariant">@color/eerie_black</item>
         <item name="colorOnPrimary">@color/white</item>
-        <!-- Secondary brand color. -->
+        <!-- Secondary brand color -->
         <item name="colorSecondary">@color/cyan_blue</item>
         <item name="colorSecondaryVariant">@color/blue_green</item>
-        <item name="colorOnSecondary">@color/white</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor" >@color/black</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/black</item>
+        <!--items On status bar -->
         <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
-        <!-- Customize your theme here. -->
+        <!-- background -->
         <item name="android:colorBackground">@color/black</item>
+        <item name="colorOnBackground">@color/white</item>
+        <!-- navigation bar -->
         <item name="android:navigationBarColor">@color/eerie_black</item>
+        <!-- action bar and bottom bar-->
         <item name="colorSurface">@color/black</item>
+        <!-- text color action and bottom bar-->
         <item name="colorOnSurface">@color/white</item>
-        <item name="colorPrimarySurface">@color/carnelian</item>
-        <item name="colorOnPrimarySurface">@color/white</item>
-        <item name="colorAccent">@color/pacific_blue</item>
-        <!--  status bar text-->
-        <item name="android:textColorPrimary">@color/white</item>
-        <item name="android:textColorSecondary">@color/light_cultured</item>
-
-        <!--  bottom bar -->
+        <!-- unActive icon bottom bar-->
+        <item name="colorOnSurfaceVariant">@color/onyx</item>
+        <!--  active icon container bottom bar -->
         <item name="colorSecondaryContainer">@color/cyan_blue</item>
-        <item name="colorOnSecondaryContainer">@color/white</item>
+        <!-- active icon bottom bar -->
+        <item name="colorOnSecondaryContainer">@color/black</item>
+
 
 
 

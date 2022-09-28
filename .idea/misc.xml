@@ -8,11 +8,17 @@
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable-v24/profile_selector.xml" value="0.276" />
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable-v24/scholar_selector.xml" value="0.276" />
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/home_selector.xml" value="0.1" />
+        <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_bell.xml" value="0.1" />
+        <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_bell_solid.xml" value="0.276" />
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_favorite.xml" value="0.1" />
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_feed.xml" value="0.1" />
+        <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_home_solid.xml" value="0.1" />
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_music.xml" value="0.1" />
-        <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_user.xml" value="0.276" />
+        <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/drawable/ic_user_solid.xml" value="0.276" />
+        <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/layout/bottom_navigation_menu.xml" value="0.1" />
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/layout/fragment_home.xml" value="0.22" />
         <entry key="..\:/Users/nick/AndroidStudioProjects/Studmin/app/src/main/res/layout/fragment_notification.xml" value="0.22274476271911073" />
