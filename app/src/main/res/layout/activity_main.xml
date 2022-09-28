@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         app:menu="@menu/bottom_navigation_bar"
         android:layout_alignParentBottom="true"
-        app:itemRippleColor="@color/light_grey" />
+        app:itemRippleColor="@color/light_grey"/>
 
 
 
